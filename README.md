@@ -1,4 +1,6 @@
 # Proyecto final coder houser 2021
+Link youtube video resume: https://youtu.be/yuPFzmy33o4
+
 ## Devs
 - Joaco Flugel
 - Jonatan Gonzalez
@@ -13,6 +15,9 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 - Login
 - Home 
 - CRUD
+
+# Youtube video resume:
+[Video resumen link](https://youtu.be/yuPFzmy33o4 "Proyecto final 2021")
 
 ### Pre-requisitos 📋
 
